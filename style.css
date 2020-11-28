@@ -1,0 +1,21 @@
+body
+{
+    background-color: deeppink;
+    color: bisque;
+    padding: 200px;
+    font-family: cursive;
+    text-align: center;
+}
+p
+{
+    font-size: 30px;
+    border: solid;
+    border-color: cyan;
+}
+img
+{
+    height: 300px;
+    width: 300px;
+    border: solid;
+    border-color: fuchsia;
+}
